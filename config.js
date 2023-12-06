@@ -50,13 +50,13 @@ global.ppulsa2 = '-'
 global.psaweria = 'https://bit.ly/3eggcxd'
 /*InfoBot*/
 global.nomorbot = '-'
-global.nomorown = '6287753812675'
+global.nomorown = '6283816532656'
 global.namebot = 'Legacy Bot'
-global.nameown = 'KhrlMstfa'
+global.nameown = 'アリア'
 global.rul = 'https://telegra.ph/file/0a4fa7e5726f921ac52b7.jpg' //Jangan Diapus Ya Kids Nanti Eror Nangis Haha
 /*StaffBot*/
 global.owner = [
-  ['6287753812675', 'Rull', 'true']
+  ['6283816532656', 'Rull', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
